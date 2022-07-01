@@ -1,6 +1,7 @@
+![I am an application and video game develope](https://github.com/ElNeko42/ELNeko42/blob/main/Banner%20web%20comida%20de%20perros%20negro%20(1).gif?raw=true)
+
 ### Hi there 👋, my name is Francisco 
 #### I am an application and video game develope
-![I am an application and video game develope](https://github.com/ElNeko42/ELNeko42/blob/main/Banner%20web%20comida%20de%20perros%20negro%20(1).gif?raw=true)
 
 I love making all kinds of applications such as mobile, web or video games.
 
