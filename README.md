@@ -5,7 +5,7 @@
 
 I love making all kinds of applications such as mobile, web or video games.
 
-Skills: JAVA/PHP / REACT / JS / HTML / CSS/ANGULAR/.NET/C#/UNITY/GODOT
+Skills: JAVA/PHP / LARAVEL / JS / HTML / CSS/.NET/C#/UNITY/GODOT
 
 - 🔭 I’m currently working on a web app and a video game for a jam 
 - 🌱 I’m currently learning c++ y spring 
