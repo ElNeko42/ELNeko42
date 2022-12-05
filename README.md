@@ -12,6 +12,5 @@ Skills: JAVA/PHP / LARAVEL / JS / HTML / CSS/.NET/C#/UNITY/GODOT
 - ⚡ Fun fact: i play quidditch in my free time 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elneko42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-josé-ben-ramirez//)  [<img 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elneko42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/francisco-josé-ben-ramirez//)  
 
